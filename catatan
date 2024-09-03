@@ -1,0 +1,19 @@
+tipe data py: primitif dan non primitif
+tipe data primitif: 
+    Integer (Int): merepresentasikan nilai numerikal (bilangan bulat)
+    String (Str):  merepresentasikan nonnumerik (character a-z, 0-9, special character); tidak dapat dioperasikan seperti tipe data numerikal; diapit oleh tanda kutip ("")
+    Float (float): merepresentasikan nilai numerikal (bilangan desimal atau berkoma)
+    Boolean (bool): merepresentasikan nilai true or false, 0 atau 1   
+
+Variabel: tempat menyimpan data dalam pemrograman
+    variabel bebas ditentukan tetapi gunakan yang mudah dibaca dan memiliki arti
+    deklarasi variable wajib dilakukan diawal pemrograman
+    tipe data yang dikalkulasikan harus sama (kecuali: int + float) 
+    representasi string harus menggunakan tanda kutip sedangkan float menggunakan (float)
+
+Membuat komentar: menggunakan # (python) dan // (C)
+    komentar diguanakan untuk membuat dokumentasi program 
+
+Operasi: representasi proses matematika
+    Opera: simbol yang merepresntastikan sebuah operasi
+        tambah (+), kurang (-), kali (*), bagi (/), modulo (%), pangkat (**)
