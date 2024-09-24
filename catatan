@@ -17,3 +17,8 @@ Membuat komentar: menggunakan # (python) dan // (C)
 Operasi: representasi proses matematika
     Opera: simbol yang merepresntastikan sebuah operasi
         tambah (+), kurang (-), kali (*), bagi (/), modulo (%), pangkat (**)
+
+Perulangan (iterasi): menghitung dari nilai pertama yang diberikan 
+    for statement
+    index data dimulai dari 0
+        
